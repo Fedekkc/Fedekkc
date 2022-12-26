@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Firebase integrations<br>🌱 I’m currently learning Scikit-Learn<br>💬 Ask me about Python and everything related to python scripts<br>⚡ Fun fact: im only 17 but started programming with Pawn and c++ when i was 11
+🔭 I’m currently working on Python scripts<br>🌱 I’m currently learning Scikit-Learn<br>💬 Ask me about Python and everything related to python scripts<br>⚡ Fun fact: i started programming with c++ but now i hate it.
 
 
 ## 🌐 Socials:
