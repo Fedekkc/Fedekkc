@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node JS<br>🌱 I’m currently learning Scikit-Learn<br>💬 Ask me about Python and everything related to python scripts<br>
+🔭 I’m currently working on Node JS<br>🌱 I’m currently learning NESTJS<br>💬 Ask me about Backend<br>
 
 
 ## 🌐 Socials:
